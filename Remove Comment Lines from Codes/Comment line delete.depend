@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1522592355 source:e:\lab test\comment line delete\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<string>
+	<set>
+	<iomanip>
+	<iterator>
+
