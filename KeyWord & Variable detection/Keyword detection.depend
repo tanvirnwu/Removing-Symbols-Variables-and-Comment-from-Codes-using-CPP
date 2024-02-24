@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1522595002 source:e:\lab test\keyword detection\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<string>
+	<set>
+	<iterator>
+

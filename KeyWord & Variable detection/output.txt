@@ -1,0 +1,14 @@
+
+Total Keywors: 5
+int
+int
+float
+short
+return
+
+Total Variables: 5
+main()
+a
+b
+dot
+fat

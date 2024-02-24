@@ -1,0 +1,11 @@
+#include<iostream.h>
+int main() {
+//It is inside of main method
+int a,b;  // variables
+printf("Sample line"); /*Mltiple comment 
+line */ float dot;
+short fat;
+printf("Ending");
+return 0;
+1 
+}
