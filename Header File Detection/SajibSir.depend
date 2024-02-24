@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1520193435 source:e:\sajibsir\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<string>
+	<set>
+	<iterator>
+
+1521295014 source:e:\sajib sir\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<string>
+	<set>
+	<iomanip>
+	<iterator>
+
+1521486426 source:e:\sajib sir1\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<string>
+	<set>
+	<iomanip>
+	<iterator>
+
+1522591109 source:e:\sajib sir2\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<string>
+	<set>
+	<iomanip>
+	<iterator>
+
